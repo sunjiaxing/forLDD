@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ADrawableTextView">
+        <attr name="drawable_left_width" format="dimension"/>
+        <attr name="drawable_left_height" format="dimension"/>
+        <attr name="drawable_top_width" format="dimension"/>
+        <attr name="drawable_top_height" format="dimension"/>
+        <attr name="drawable_right_width" format="dimension"/>
+        <attr name="drawable_right_height" format="dimension"/>
+        <attr name="drawable_bottom_width" format="dimension"/>
+        <attr name="drawable_bottom_height" format="dimension"/>
+    </declare-styleable>
+</resources>
