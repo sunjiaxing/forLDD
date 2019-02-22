@@ -21,6 +21,9 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".ui.activity.TabLayoutActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

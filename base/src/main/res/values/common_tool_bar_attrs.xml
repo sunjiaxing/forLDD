@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CommonToolBar">
+        <attr name="left_drawable" format="reference|color"/>
+        <attr name="right_drawable" format="reference|color"/>
+        <attr name="title" format="string"/>
+        <attr name="drawable_padding" format="dimension"/>
+
+        <attr name="android:textColor"/>
+        <attr name="android:textSize"/>
+    </declare-styleable>
+</resources>
